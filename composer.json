@@ -1,0 +1,20 @@
+{
+    "name": "pabisch/balls",
+    "description": "It is a project to create balls.",
+    "type": "library",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Stefan Pabisch",
+            "email": "stefan.pabisch@hotmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Pabisch\\Balls\\": "src/"
+        }
+    },
+    "require": {
+        "typo3fluid/fluid": "^2.4"
+    }
+}
