@@ -10,38 +10,43 @@ use Pabisch\Balls\CreateBall;
 $ball = new Pabisch\Balls\CreateBall(
     "Spezialball",
     "30cm",
-    "Leder"
+    "Leder",
+    "rot"
 );
 
 $ball1 = new Pabisch\Balls\CreateBall(
     "Blauer Ball",
     "25cm",
-    "Stoff"
+    "Stoff",
+    "blau"
 );
 
 $ball2 = new Pabisch\Balls\CreateBall(
     "Oranger Ball",
     "10cm",
-    "Stoff"
+    "Stoff",
+    "blau"
 );
 
 $ball3 = new Pabisch\Balls\CreateBall(
     "Roter Ball",
     "40cm",
     "Baumwolle",
-    "Baumwolle"
+    "orange"
 );
 
 $ball4 = new Pabisch\Balls\CreateBall(
     "Gelber Ball",
     "30cm",
-    "Leder"
+    "Leder",
+    "schwarz"
 );
 
 $ball5 = new Pabisch\Balls\CreateBall(
     "Schwarzer Ball",
     "40cm",
-    "Kunststoff"
+    "Kunststoff",
+    "rot"
 );
 
 
